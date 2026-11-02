@@ -1,0 +1,1 @@
+The MIT license covers theme code only. No logos, photographs or fonts are included. Jackalope, Athlon, Shooters Hub and other marks remain with their respective owners. Obtain artwork permission separately; this theme grants no trademark or photo rights.

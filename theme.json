@@ -1,0 +1,20 @@
+{
+  "protocolVersion": 1,
+  "id": "jackalope",
+  "name": "Jackalope",
+  "parent": "classic",
+  "styles": [
+    "theme.css"
+  ],
+  "tokens": {
+    "surface": "#f7f5ee",
+    "ink": "#14251b",
+    "accent": "#ff6a00",
+    "forest": "#102619",
+    "sponsor-accent": "#ff850a"
+  },
+  "layout": {
+    "navigation": "rail",
+    "density": "comfortable"
+  }
+}

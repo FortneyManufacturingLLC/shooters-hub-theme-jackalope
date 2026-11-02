@@ -1,0 +1,13 @@
+{
+  "name": "@shooters-hub/theme-jackalope",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "files": [
+    "theme.json",
+    "theme.css",
+    "README.md",
+    "LICENSE",
+    "ASSETS.md"
+  ]
+}
